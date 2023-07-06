@@ -1,4 +1,4 @@
-# Boston-Crime-Analysis-Using-Pyspark
+# Boston-Crime-Analysis-Using-PySpark
 The Boston crime dataset is a collection of records from the Boston Police Department (BPD) that document the initial details surrounding an incident to which BPD officers respond. The dataset includes information on the type of incident, the date and time, the location, and other relevant details.
 
 The Boston crime dataset is a valuable resource for researchers, policymakers, and community members interested in understanding crime patterns in Boston. The dataset can identify crime hot spots, track trends over time, and assess the effectiveness of crime prevention programs.
