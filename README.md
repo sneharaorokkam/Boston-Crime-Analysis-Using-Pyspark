@@ -10,7 +10,7 @@ Here are some of the critical features of the Boston crime dataset:
 •	The dataset contains 739866 rows and 17 columns.
 •	The dataset is available from Boston Data Catalog.
 
-There are multiple advantages to using Spark to analyze the Boston crime data. Firstly, Spark is a rapid framework that can handle large datasets, which is crucial for the Boston crime data as it includes over 7 million records. Secondly, Spark can scale to manage expanding datasets, which is vital for the Boston crime data as it is growing continuously. Thirdly, Spark can process diverse data formats, including structured, semi-structured, and unstructured data, which is highly significant for the Boston crime data as it is a heterogeneous dataset. Lastly, Spark is relatively easy to use, which benefits analysts who may need to gain experience with distributed computing frameworks.
+There are multiple advantages to using Spark to analyze the Boston crime data. Firstly, Spark is a rapid framework that can handle large datasets, which is crucial for the Boston crime data as it includes over 0.7 million records. Secondly, Spark can scale to manage expanding datasets, which is vital for the Boston crime data as it is growing continuously. Thirdly, Spark can process diverse data formats, including structured, semi-structured, and unstructured data, which is highly significant for the Boston crime data as it is a heterogeneous dataset. Lastly, Spark is relatively easy to use, which benefits analysts who may need to gain experience with distributed computing frameworks.
 
 ## Data Source: 
 Boston Police Department via the City of Boston's open data portal.
